@@ -56,3 +56,18 @@ console.log("🟡 Hindi   ❗100   ❗ 85  ❗ 85   ❗🔵")
 console.log("🟡▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪🔵")
 console.log("🟡Total    ❗500   ❗ 288 ❗ 76%  ❗🔵")
 console.log("🟡▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪🔵")
+
+
+
+// mathmatical problem of js 
+
+
+
+// problem1
+console.log(one*two*three*four*five*six)
+
+// problem2
+console.log((one*one)+(two*two)+(three*three))
+
+// problem3
+console.log(N*N*N)
